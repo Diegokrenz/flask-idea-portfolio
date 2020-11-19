@@ -17,7 +17,7 @@ def setup():
     project4 = model.Project("Project 4", "http://www.facebook.com", "/static/img/cat2.png", "Another Team Name",
                              ["Talented Student 3", "Talented Student 4", "Smart Student 6"],
                             "This is another fabulous project of ours")
-    project5 = model.Project("Travel Website", "http://127.0.0.1:5000/", "https://lh3.googleusercontent.com/yGFa3i6X522UOjW3cBZKBUnwOqwzfc9-TxZOL0K0inWDCD65TdBvfKAXRrfy9XUOUhWAsA=s170", "Newbiecoders",
+    project5 = model.Project("Travel Website", "Http://75.80.119.252", "https://lh3.googleusercontent.com/yGFa3i6X522UOjW3cBZKBUnwOqwzfc9-TxZOL0K0inWDCD65TdBvfKAXRrfy9XUOUhWAsA=s170", "Newbiecoders",
                              ["Diego Krenz", "Ethan Sun", "Wesley Chen", "Andrea Abed", "Naweid Hassanzadeh"],
                             "Learn all about cities in Europe and plan your next trip!")
     project6 = model.Project("Project 6", "http://www.facebook.com", "/static/img/cat2.png", "Another Team Name",
